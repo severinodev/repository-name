@@ -33,7 +33,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" />
   </a>
 </p>
 
