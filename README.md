@@ -27,7 +27,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 <h4> Other Tools and Technologies </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,vue," />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,vue,&theme=light" />
   </a>
 </p>
 
