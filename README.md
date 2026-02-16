@@ -47,7 +47,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/severinoev">
+<a href= "https://www.instagram.com/severinodev">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@severinodev" >
