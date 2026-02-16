@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi , I'm Elias Severino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Elias Severino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhtd3Rkdm01bnZkODczMXBpN3BncG5tNmJiZXcydzlrdGVuOTM0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1r8YvFB47nAsAy36mp/giphy.gif" />
+<img align="right" width=250px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhtd3Rkdm01bnZkODczMXBpN3BncG5tNmJiZXcydzlrdGVuOTM0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1r8YvFB47nAsAy36mp/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;<b>About me </b>
 
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a Freelance Software Developer. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
