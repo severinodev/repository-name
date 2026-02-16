@@ -27,13 +27,13 @@ I am a software engineering student, currently halfway through my degree. I am e
 <h4> Other Tools and Technologies </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,vue,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,vue,&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
   </a>
 </p>
 
