@@ -17,7 +17,6 @@ I am a software engineering student, currently halfway through my degree. I am e
 ## My Skills Include
 
 <h4> Languages </h4>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
