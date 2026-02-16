@@ -18,9 +18,9 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 <h4> Languages </h4>
 
-![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
 
-<h4> Other Tools and Technologies </h4>
+<h4> Frameworks and Technologies </h4>
 
 ![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,react,vue,django,fastapi,flask)
 ![My dbs](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb)
