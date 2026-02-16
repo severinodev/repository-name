@@ -14,16 +14,17 @@ I am a software engineering student, currently halfway through my degree. I am e
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="eliascvrno@gmail.com">eliascvrno@gmail.com</a>
 
-## My Skills Include
+## My Skills Include:
 
 <h4> Languages </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
 
-<h4> Frameworks and Technologies </h4>
+<h4> Frameworks & Technologies </h4>
 
-![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,react,vue,django,fastapi,flask)
-![My dbs](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb)
+![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,react,vue,django,fastapi,flask,/n)
+![My dbs](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,/n)
+![My technolgies](https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,fedora,/n)
 
 
 ## Check out my Social Media
