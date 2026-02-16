@@ -6,8 +6,8 @@
 
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a Freelance Software Developer. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Nest.js
   - Angular
+  - Svelte
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💪I love work out, 🎵 listening to music, and 📖 study conspiracy theories and theology.
@@ -17,17 +17,8 @@ I am a software engineering student, currently halfway through my degree. I am e
 ## My Skills Include
 
 <h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
- 
 
-
-</span>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py)](https://skillicons.dev)
 
 
 <h4> Other Tools and Technologies </h4>
@@ -38,8 +29,8 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-
-
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="">
 </span>
 
 ## Check out my Social Media
