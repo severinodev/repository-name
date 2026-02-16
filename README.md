@@ -17,25 +17,14 @@ I am a software engineering student, currently halfway through my degree. I am e
 ## My Skills Include
 
 <h4> Languages </h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
-  </a>
-</p>
 
+![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java)
 
 <h4> Other Tools and Technologies </h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,vue,&theme=dark" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-  </a>
-</p>
+![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,react,vue,django,fastapi,flask)
+![My dbs](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb)
+
 
 ## Check out my Social Media
 
