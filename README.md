@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer freelance. I love to learn and build something new, productive, innovative and creative.
+I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a Freelance Software Developer. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
@@ -34,11 +34,11 @@ I am a software engineering student, currently halfway through my degree. I am e
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
 
 
 </span>
