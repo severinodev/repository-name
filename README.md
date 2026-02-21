@@ -32,9 +32,6 @@ I am a software engineering student, currently halfway through my degree. I am e
 <a href="https://www.youtube.com/@severinodev">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
-<a href= "https://www.instagram.com/severinodev">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/severinodev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
